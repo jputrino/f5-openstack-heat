@@ -59,12 +59,12 @@ F5 OpenStack Heat Plugins
 -------------------------
 
 Many of the F5-supported Heat templates require the `F5 OpenStack Heat Plugins`_.
-See the product documentation for installation instructions.
+See the F5 Heat plugins documentation for installation instructions.
 
 
 
 .. rubric:: Footnotes
 .. [#fn1] F5-supported Heat orchestration templates only; unsupported templates are not documented.
 
-.. _F5 OpenStack Heat user documentation: /cloud/openstack/latest/heat
+
 .. _F5 support policy for GitHub software: https://support.f5.com/csp/article/K80012344
